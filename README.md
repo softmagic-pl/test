@@ -4,7 +4,7 @@ test
 Testowe
 
 A to jest eksperymentalna zmiana.
-Ma³a zmiana
+MaÂ³a zmiana
 
 Zmiana w branchu
 
@@ -16,3 +16,5 @@ Kolejny dopisek.
 Zmiany w Util.
 
 haha
+
+drobna zmiana
